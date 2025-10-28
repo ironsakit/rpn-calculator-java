@@ -25,7 +25,6 @@ Open a terminal in your project folder and run:
 ```
 $ javac src/*.java -d .
 $ java Main
-
 ```
 ---------------------------------------------------------
 
